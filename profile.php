@@ -11,7 +11,14 @@ require 'includes/header.php';
         <p>Mahasiswa memahami hubungan antarmuka web, logika PHP, basis data, dan version control melalui satu proyek terpadu.</p>
         <h2>Tujuan proyek</h2>
         <p>Proyek menampilkan profil, program studi, berita, serta formulir kontak. Data program studi dan berita dibaca dari database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
+        <h2>Fokus Pembelajaran</h2>
+        <ul>
+            <li>Pengembangan Aplikasi Web Dinamis</li>
+            <li>Manajemen Basis Data & Keamanan</li>
+            <li>Version Control & Kolaborasi Git</li>
+        </ul>
         <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div>
+        
     </div>
 </section>
 <?php require 'includes/footer.php'; ?>
